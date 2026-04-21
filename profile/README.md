@@ -6,16 +6,16 @@
 </p>
 
 <h2 align="center">
-  The Open Information Layer
+  An open web, readable again
 </h2>
 
 <p align="center">
-  RSS3 structures Open Information for the next Twitter, Google, and OpenAI.
+  RSS3 builds products and infrastructure for people who still believe open information should stay open.
 </p>
 
 <div align="center">
   <a href="https://rss3.io"><b>RSS3</b></a> –
-  <a href="https://docs.rss3.io"><b>Documentation</b></a>
+  <a href="https://github.com/RSSNext"><b>GitHub</b></a>
 </div>
 
 <div align="center">
