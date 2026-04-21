@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <a href="https://rss3.io"><b>RSS3</b></a> –
+  <a href="https://rss3.io"><b>Website</b></a> –
   <a href="https://github.com/RSSNext"><b>GitHub</b></a>
 </div>
 
